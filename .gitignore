@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+
+# Reports
+reports/
+*.html
+*.json
+
+# OS/editor files
+.DS_Store
+*.swp
