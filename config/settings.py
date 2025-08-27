@@ -1,0 +1,4 @@
+DEFAULT_NETWORK = "192.168.56.0/24"  # change to your subnet
+DEFAULT_PORTS = "1-1024,3306,3389,8080,8443"
+SCAN_ARGS = "-sS -sV"
+REPORT_DIR = "reports"
