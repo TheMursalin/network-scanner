@@ -16,7 +16,7 @@ Generates **HTML** and **JSON** reports.
 
 ## ⚙️ Installation
 ```bash
-git clone https://github.com/YourUsername/network-scanner.git
+git clone https://github.com/TheMursalin/network-scanner.git
 cd network-scanner
 python3 -m venv .venv
 source .venv/bin/activate
